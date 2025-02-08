@@ -17,6 +17,7 @@
 /home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.csproj.CoreCompileInputs.cache
 /home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.MvcApplicationPartsAssemblyInfo.cs
 /home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.MvcApplicationPartsAssemblyInfo.cache
+/home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.sourcelink.json
 /home/yass/projet/my-first-app/obj/Debug/net8.0/staticwebassets.build.json
 /home/yass/projet/my-first-app/obj/Debug/net8.0/staticwebassets.development.json
 /home/yass/projet/my-first-app/obj/Debug/net8.0/staticwebassets/msbuild.my-first-app.Microsoft.AspNetCore.StaticWebAssets.props
@@ -31,4 +32,3 @@
 /home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.pdb
 /home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.genruntimeconfig.cache
 /home/yass/projet/my-first-app/obj/Debug/net8.0/ref/my-first-app.dll
-/home/yass/projet/my-first-app/obj/Debug/net8.0/my-first-app.sourcelink.json
