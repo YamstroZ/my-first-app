@@ -468,7 +468,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/yass/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -476,11 +476,11 @@
       "projectUniqueName": "/home/yass/projet/my-first-app/my-first-app.csproj",
       "projectName": "my-first-app",
       "projectPath": "/home/yass/projet/my-first-app/my-first-app.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/yass/.nuget/packages/",
       "outputPath": "/home/yass/projet/my-first-app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/yass/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
