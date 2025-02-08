@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/yass/projet/my-first-app/my-first-app.csproj",
         "projectName": "my-first-app",
         "projectPath": "/home/yass/projet/my-first-app/my-first-app.csproj",
-        "packagesPath": "/home/yass/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/yass/projet/my-first-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/yass/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
